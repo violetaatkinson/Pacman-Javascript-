@@ -137,7 +137,7 @@ document.addEventListener('DOMContentLoaded', () => {
       }
     }
   
-    //what happens when you eat a power-pellet 
+    //what happens when you eat a power-pellet  // podes comer a los fantasmas y se ponen de otro color
     function powerPelletEaten() {
       if (squares[pacmanCurrentIndex].classList.contains('power-pellet')) {
         score +=10
