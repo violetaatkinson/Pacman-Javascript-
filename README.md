@@ -1,9 +1,9 @@
-<h1>Catch Pikachu <img width="55" alt="image" src="https://user-images.githubusercontent.com/58277625/212311318-b86982b8-f2cc-4553-8288-d4db90cc6a06.png"></h1>
-<p>Every time you catch pikachu you get points</p>
+<h1>Pac-Man <img width="40" alt="image" src="https://user-images.githubusercontent.com/58277625/211618551-34cad9f4-8c8b-4ab9-bd1e-34d930b6fa6e.png"></h1>
 
-<img width="508" alt="image" src="https://user-images.githubusercontent.com/58277625/212312412-66d3ae2c-ae64-4acf-aca4-83d1f567827f.png">
+
+<img width="352" alt="image" src="https://user-images.githubusercontent.com/58277625/211618736-56955b80-6385-4ef7-8d51-9665b66930fa.png">
 
 <i>Tutorial of Ania Kubow </i>
 
 <p>Here you can play it again ! 
-https://violetaatkinson.github.io/Catch-Pikachu-Javascript/</p>
+https://violetaatkinson.github.io/Pacman-Javascript-/</p>
